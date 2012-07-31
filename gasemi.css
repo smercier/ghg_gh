@@ -1,0 +1,71 @@
+/*section pour demo*/
+body {
+        font-family: trebuchet, sans-serif;
+        font-size: 90%;
+        color: #888;
+        line-height: 180%;
+        margin: 0;
+        padding: 0;
+        text-align: left;
+}
+titre {
+        color:#144eab;
+        font-weight : bold;
+}
+val {
+        color:#98bbf3;
+}
+
+a:link {
+COLOR: #444444;
+}
+a:visited {
+COLOR: #444444;
+}
+a:hover {
+COLOR: #444444;
+}
+a:active {
+COLOR: #444444;
+}
+
+#legend {
+    position:absolute; 
+    right:80px;
+    bottom: 110px;
+    z-index:999; 
+    /*width:150px; height:150px;*/
+}
+
+.red_circle {
+    fill: #CD5555;
+    stroke: black;
+    stroke-width: 1px;
+}
+
+.orange_circle {
+    fill: #FFC125;
+    stroke: black;
+    stroke-width: 1px;
+}
+
+.yellow_circle {
+    fill: #FFFF66;
+    stroke: black;
+    stroke-width: 1px;
+}
+
+.green_circle {
+    fill: #CCFF99;
+    stroke: black;
+    stroke-width: 1px;
+}
+/*
+circle {
+    fill: orange;
+    stroke: black;
+    stroke-width: 1px;
+    opacity: 0.8;
+}*/
+/*section pour wax*/
+
